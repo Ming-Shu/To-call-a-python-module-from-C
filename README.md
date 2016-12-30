@@ -24,7 +24,7 @@ Commmand line:
               sudo apt-get install python3-dev
 
 
-2. You need to provide GCC with the include path for the Python.h header. This can be done with the -I
+0. 2.You need to provide GCC with the include path for the Python.h header. This can be done with the -I
 
 example:
           gcc test.c -I /usr/include/python2.7 -lpython2.7 -o test
