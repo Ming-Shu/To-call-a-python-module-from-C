@@ -10,9 +10,11 @@ Python version      :  2.7
 
 
 Note:
+
 1. You need to install a package called python-dev.(This package includes header files, a static library and development tools for building Python modules, extending the Python interpreter or embedding Python in applications.)
 
 Commmand line:
+
      For Python version 2.x+
      
               sudo apt-get install python-dev
