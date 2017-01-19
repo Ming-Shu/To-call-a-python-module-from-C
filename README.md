@@ -31,7 +31,6 @@ example:
     
     
 3.You must to learn about PyObject that is the basic object for the C API. It can represent any kind of python basic types.
-       Reference:  
+  Reference:  
            https://docs.python.org/3/c-api/  , 
-               
            http://www.ast.uct.ac.za/~ed/NASSP_CM_2016/docs-pdf/c-api.pdf
